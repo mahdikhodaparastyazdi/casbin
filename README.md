@@ -1,1 +1,1 @@
-# casbin-authz
+# casbin-auth
